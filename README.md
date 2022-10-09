@@ -56,3 +56,4 @@ and source this file again. A new report, slides, and (if needed) web applicatio
 3. Once in the gh-pages branch, you can copy the html files from the master branch by typing in the shell file the command *git checkout master doc/SALES_Report.html* and *git checkout master doc/SALES_Slides.html*. Your report and slides are now available online through gh-pages.
 
 4. You should now go back to the master branch (in the *Shell* type *git checkout master*) and delete the 2 html files from the doc directory (before pushing any new material back on your master branch on github).
+**I forked this file for a graduate assignment on 20221009.  This file pertains to a sales dataset**
